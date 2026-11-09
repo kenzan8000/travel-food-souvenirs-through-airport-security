@@ -1,0 +1,185 @@
+{
+  "place": {
+    "query": "Helsinki, Finland",
+    "name": "Helsinki",
+    "slug": "helsinki",
+    "destination": "Japan",
+    "user_language": "en",
+    "local_language": "fi",
+    "currency": "EUR"
+  },
+  "travel_rules": [
+    "Hand luggage: liquids, gels, pastes and spreads in containers of 100 ml or less, all in one clear 1 L bag. Some airports have relaxed this, but this list follows the strict rule.",
+    "Japan does not let travellers bring in meat or meat products (including jerky, sausages and ham) without an export inspection certificate, which shops do not provide.",
+    "Food for personal use and gifts is duty-free in Japan within the overall allowance of 200,000 JPY per traveller."
+  ],
+  "souvenirs": [
+    {
+      "id": "fazer-blue",
+      "kind": "product",
+      "category": "Sweets",
+      "name": "Fazer Blue (Fazerin Sininen)",
+      "local_name": "Fazerin Sininen",
+      "type": "Milk chocolate",
+      "producer": "Fazer",
+      "origin": "Helsinki",
+      "pack_size": "200 g bar",
+      "price": "~3-4 EUR",
+      "carry_on": "Solid",
+      "customs": {
+        "status": "allowed",
+        "note": "Chocolate and sweets are not subject to animal or plant quarantine.",
+        "source": "https://www.maff.go.jp/aqs/english/"
+      },
+      "shelf_life": "about 12 months",
+      "packing_tips": "Melts in heat; keep it in the middle of the bag, not an outer pocket.",
+      "made_from": "Sugar, whole milk powder, cocoa butter, cocoa mass",
+      "how_made": "Milk chocolate made to Fazer's 1922 recipe, sold in the same blue wrapper since then.",
+      "taste": "Sweet, creamy and milky, with a soft cocoa flavour.",
+      "where_to_buy": "Any supermarket or kiosk; larger gift boxes at the Fazer café and the airport",
+      "tips": "Both sources say every Finn they know brings this abroad as a gift.",
+      "local_terms": [{"term": "suklaa", "meaning": "chocolate", "pronunciation": "SOOK-laa"}],
+      "sources": ["https://example.com/what-we-brought-home-from-finland", "https://example.com/finnish-gifts-for-friends-abroad"],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fazer_Blue_chocolate_bar.jpg/500px-Fazer_Blue_chocolate_bar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fazer_Blue.jpg/500px-Fazer_Blue.jpg"
+      ]
+    },
+    {
+      "id": "salmiakki",
+      "kind": "style",
+      "category": "Sweets",
+      "name": "Salty liquorice (salmiakki)",
+      "local_name": "salmiakki",
+      "type": "Sweets",
+      "origin": "Finland",
+      "pack_size": "~150-250 g bag",
+      "price": "~2-4 EUR",
+      "carry_on": "Solid",
+      "customs": {
+        "status": "allowed",
+        "note": "Sweets are not subject to animal or plant quarantine.",
+        "source": "https://www.maff.go.jp/aqs/english/"
+      },
+      "shelf_life": "about 12 months",
+      "made_from": "Liquorice extract and ammonium chloride",
+      "how_made": "Liquorice candy flavoured with ammonium chloride (*salmiakki*), which gives it a salty, tongue-tingling bite.",
+      "taste": "Salty and bitter-sweet. Love it or hate it.",
+      "where_to_buy": "Any supermarket, sweets aisle",
+      "label_hints": [{"term": "salmiakki", "meaning": "salty liquorice"}, {"term": "lakritsi", "meaning": "liquorice"}],
+      "examples": ["Fazer Salmiakki", "Pantteri"],
+      "tips": "A resident suggests giving it as a dare gift, with a sweeter chocolate next to it.",
+      "local_terms": [{"term": "salmiakki", "meaning": "ammonium chloride; salty liquorice"}],
+      "sources": ["https://example.com/finnish-gifts-for-friends-abroad"],
+      "images": [
+        "https://example.com/missing-salmiakki.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Salmiakki_candies.jpg/500px-Salmiakki_candies.jpg"
+      ]
+    },
+    {
+      "id": "ruislastut",
+      "kind": "style",
+      "category": "Savoury snacks",
+      "name": "Rye crisps (ruislastut)",
+      "local_name": "ruislastut",
+      "type": "Savoury crisps",
+      "origin": "Finland",
+      "pack_size": "~130-150 g bag",
+      "price": "~2-3 EUR",
+      "carry_on": "Solid",
+      "customs": {
+        "status": "allowed",
+        "note": "Baked grain snacks are not subject to quarantine.",
+        "source": "https://www.maff.go.jp/aqs/english/"
+      },
+      "packing_tips": "Crushes easily; pack it on top.",
+      "made_from": "Rye bread, oil, salt",
+      "how_made": "Thin slices of sour rye bread, baked or fried until crunchy and seasoned.",
+      "taste": "Sour, salty and very crunchy.",
+      "where_to_buy": "Any supermarket, in the crisps aisle",
+      "label_hints": [{"term": "ruis", "meaning": "rye"}, {"term": "suola", "meaning": "salt"}],
+      "examples": ["Vaasan Ruis Nacho"],
+      "local_terms": [{"term": "lastu", "meaning": "chip, shaving"}],
+      "sources": ["https://example.com/what-we-brought-home-from-finland"],
+      "images": ["https://images.openfoodfacts.org/images/products/643/700/506/5699/front_fi.17.400.jpg"]
+    },
+    {
+      "id": "juhla-mokka",
+      "kind": "product",
+      "category": "Tea and coffee",
+      "name": "Juhla Mokka coffee",
+      "local_name": "Juhla Mokka",
+      "type": "Ground coffee",
+      "producer": "Paulig",
+      "origin": "Helsinki",
+      "pack_size": "~425-500 g pack",
+      "price": "~6-9 EUR",
+      "carry_on": "Solid (powder)",
+      "customs": {
+        "status": "allowed",
+        "note": "Roasted coffee is not subject to plant quarantine.",
+        "source": "https://www.maff.go.jp/aqs/english/"
+      },
+      "packing_tips": "Some airports screen powders separately; keep it easy to take out.",
+      "made_from": "Arabica coffee beans",
+      "how_made": "A light-roasted blend from Paulig's Helsinki roastery, ground for filter coffee.",
+      "taste": "Mild and smooth, the way Finns drink their many daily cups.",
+      "where_to_buy": "Any supermarket",
+      "tips": "One traveller brought it for coffee-loving friends; Finns drink the most coffee per person in the world.",
+      "local_terms": [{"term": "kahvi", "meaning": "coffee", "pronunciation": "KAH-vi"}],
+      "sources": ["https://example.com/what-we-brought-home-from-finland", "https://example.com/finnish-gifts-for-friends-abroad"],
+      "images": ["https://images.openfoodfacts.org/images/products/641/130/017/9817/front_fi.3.400.jpg"]
+    },
+    {
+      "id": "reindeer-jerky",
+      "kind": "style",
+      "category": "Savoury snacks",
+      "name": "Dried reindeer meat (poronliha)",
+      "local_name": "poronliha",
+      "type": "Dried meat",
+      "carry_on": "Solid",
+      "customs": {
+        "status": "banned",
+        "note": "Japan does not let travellers bring in meat products without an export inspection certificate, which shops do not provide.",
+        "source": "https://www.maff.go.jp/aqs/english/"
+      },
+      "sources": ["https://example.com/what-we-brought-home-from-finland"],
+      "images": []
+    }
+  ],
+  "left_out": [
+    {
+      "name": "Lingonberry jam (puolukkahillo)",
+      "reason": "Sold in jars of about 400 g, over the 100 ml carry-on limit for gels and spreads.",
+      "sources": ["https://example.com/finnish-gifts-for-friends-abroad"]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://example.com/what-we-brought-home-from-finland",
+      "title": "What we brought home from a week in Finland",
+      "author": "Jane Doe",
+      "date": "2025-08-20",
+      "language": "en",
+      "kind": "traveller blog",
+      "status": "used",
+      "reason": "First-person trip report with photos of the souvenirs"
+    },
+    {
+      "url": "https://example.com/finnish-gifts-for-friends-abroad",
+      "title": "Tuliaiset ulkomaille: mitä vien aina mukanani",
+      "author": "Matti Meikäläinen",
+      "date": "2024-12-01",
+      "language": "fi",
+      "kind": "resident blog",
+      "status": "used",
+      "reason": "Resident's own gift picks with details"
+    },
+    {
+      "url": "https://example.com/top-25-finnish-souvenirs",
+      "title": "Top 25 Finnish souvenirs",
+      "status": "rejected",
+      "reason": "SEO listicle, no author, no first-hand detail"
+    }
+  ]
+}
